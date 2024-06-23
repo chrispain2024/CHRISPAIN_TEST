@@ -1,0 +1,158 @@
+nav{
+    display: flex;
+}
+nav img{
+    width: 200px;
+    margin-left: 150px;
+}
+nav ul{
+    display: flex;
+    margin-left: 400px;
+    margin-top: 15px;
+}
+nav ul li{
+    margin: 15px;
+    list-style: none;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #ababab;
+}
+.about{
+    color: #00b39b;
+}
+nav ul li a:hover {
+    color: #00b39b;
+}
+.image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+.image img {
+    height: 100px;
+}
+.title1{
+    color: #00b39b;
+    text-align: center;
+    font-weight: 300;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 3px;
+    font-size: 37px;
+}
+.paragraphe{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.paragraphe div {
+    margin: 15px;
+    width: 450px;
+}
+.cont1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.col1 {
+
+    background-color: #00b39b;
+    margin: 10px;
+    height: 350px;
+    width: 400px;
+    
+    border-radius: 20px;
+}
+.col2 {
+    /** centrer
+    text-align: center; **/
+    background-color: blue;
+    margin: 10px;
+    height: 350px;
+    width: 400px;
+    border-radius: 20px;
+    pacity: 1;
+    transform: translate(0);
+}
+.col3 {
+    /** centrer..
+    text-align: center; ..*/
+    background-color: black;
+    margin: 10px;
+    height: 350px;
+    width: 400px;
+    border-radius: 25px;
+}
+
+h2{
+    color: aliceblue;
+    font-size: 1.5em;
+    font-weight: 300;
+}
+a{
+    color: azure;
+}
+.col1 img {
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.col2 img {
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.col3 img {
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.titre2 {
+    color: white;
+    margin-left: 40px;
+}
+.titre3 {
+    color: white;
+    margin-left: 40px;
+}
+.cont5{
+    display: flex;
+}
+#monimage{
+    height: 20px;
+    width: auto;
+    max-width: 100%;
+    overflow: hidden;
+}
+.section4{
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+    background-color: aquamarine;
+    height:500px
+}
+.colsec4{
+    width: 400px;
+   
+    
+}
+.colsec44{
+    width: 200px;
+    height: 200px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+.colsec442{
+    width: 200px;
+    height: 200px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+    margin-top: 220px;
+}
+.colsec443 {
+    width: 200px;
+    height: 200px;
+    background-color:whitesmoke;
+    border-radius: 15px;
+    margin-top: 0px; 
+    margin: 10px;
+}
